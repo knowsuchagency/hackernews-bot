@@ -1,3 +1,8 @@
+"""
+This module contains code to post notifications on new Python stories on the hackernews front page daily or via an
+HTTP call.
+"""
+
 import os
 
 import requests
