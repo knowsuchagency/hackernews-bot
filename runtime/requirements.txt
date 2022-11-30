@@ -1,0 +1,4 @@
+boto3<2.0.0
+requests~=2.28
+pynamodb~=5.3
+aws-lambda-powertools~=2.4
