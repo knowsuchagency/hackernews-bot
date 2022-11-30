@@ -111,7 +111,7 @@ def scan_and_notify():
     name="hackernews-python",
     description="check for python stories on hacker news",
 )
-def periodically_scan_and_notify(event, context):
+def periodically_scan_and_notify(event, context=None):
     scan_and_notify()
 
 
